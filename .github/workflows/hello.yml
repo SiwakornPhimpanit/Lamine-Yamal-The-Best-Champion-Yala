@@ -7,7 +7,7 @@ jobs:
   greet:
     runs-on: ubuntu-latest
     steps:
-      - name: Say hello
+      - name: Siwakorn Phimpanit
         run: echo "สวัสดี GitHub Actions!"
       - name: Show date
         run: date
